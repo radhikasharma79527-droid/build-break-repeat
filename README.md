@@ -1,2 +1,3 @@
 # build-break-repeat
-This is my first Github account 
+This is my first Github Repository.
+Author = Radhika
